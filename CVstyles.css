@@ -1,0 +1,16 @@
+p {
+    background-color: RGB(171, 198, 206);
+    font-size: 120%;
+}
+h2 {
+background-color: RGB(65, 130, 149);
+text-decoration: underline;
+font-size: 190%;
+color: RGB(42, 52, 55);
+}
+strong {
+color: RGB(73, 182, 214);
+}
+span {
+    color: RGB(73, 182, 214);
+}
